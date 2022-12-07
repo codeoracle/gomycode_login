@@ -1,0 +1,140 @@
+.firstpart{
+    background-color: rgb(36, 37, 37);
+    color: #fff;
+    width: 950px;
+    height: 1150px;
+    padding: 250px 120px 120px 120px;
+    
+}
+
+.header{
+    margin-top: 70px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: rgb(199, 192, 181);
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.header2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 14px;
+    color: gray;
+}
+
+.form-class{
+    margin-top: 40px;
+}
+
+.mybutton{
+    border-radius: 8px;
+    height: 50px;
+    background-color: #176fff;
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #f5f5f5;
+    font-size: 20px;
+}
+
+.mybutton:hover{
+    background-color: #145fd9;
+    
+    
+}
+
+.pass{
+    border-radius: 8px;
+    height: 50px;
+    background-color: rgb(41, 37, 37);
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: rgb(63, 149, 230);
+    /* font-size: 20px; */
+}
+.pass:hover{
+    background-color: rgb(33, 32, 32);
+}
+
+input{
+    appearance: menulist-button;
+    background-color: rgba(70, 90, 126, 0.4) !important;
+    color: fieldtext !important;
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    padding: 1px 2px;
+    border: none !important;
+    height: 60px !important;
+    
+}
+
+.logo-wrap{
+    background-color: rgb(43, 45, 45);
+    color: #fff;
+    width: 955px;
+    height: 1150px;
+    padding: 250px 120px 120px 120px;
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+    color: #000;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.logo-span{
+    color: rgb(255, 0, 0);
+    font-weight: 900;
+}
+
+.logo-text{
+    color: rgb(199, 192, 181);
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+   
+
+.content{
+    color: rgb(159, 151, 136);
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.img-con{
+    width: 300px;
+    height: 300px;
+}
+
+.content2{
+    color: rgb(159, 151, 136);
+    font-size: 15px;
+}
+
+.require-span{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
